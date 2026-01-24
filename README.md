@@ -1,4 +1,4 @@
-<h1>Hi, I'm JD, an <a href="https://linkedin.com/in/jd-linares-u-me-media">IT Professional</a>☺</h1>
+<h1>Hi, I'm JD, an <a href="https://linkedin.com/in/jd-linares-u-me-media">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
