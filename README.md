@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket-Prerequisites-and-Installation](https://github.com/JDLinares-360/osTicket-Prerequisites-and-Installation/tree/main)
+  - [osTicket: Post-Installation Configuration](https://github.com/JDLinares-360/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JDLinares-360/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDLinares-360/azure-network-protocols)
