@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JDLinares-360/ticket-lifecycle)
   - [osTicket-Prerequisites-and-Installation](https://github.com/JDLinares-360/osTicket-Prerequisites-and-Installation/tree/main)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JDLinares-360/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDLinares-360/azure-network-protocols)
 
