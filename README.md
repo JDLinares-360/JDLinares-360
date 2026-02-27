@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JDLinares-360/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JDLinares-360/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JDLinares-360/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JDLinares-360/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
